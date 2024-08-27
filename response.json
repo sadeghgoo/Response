@@ -1,5 +1,5 @@
 {
-    "forceUpdateVersions": ["1.1.0", "1.1.1"],
+    "forceUpdateVersions": ["1.1.0"],
     "latestVersion": {
       "version": "1.1.2",
       "type": "normal",
