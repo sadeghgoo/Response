@@ -1,0 +1,113 @@
+{
+  "packages": [
+    {
+      "id": 100001,
+      "name": "Countries",
+      "isSelected": true,
+      "words": [
+        {"id": 200001, "value": "Russia"},
+        {"id": 200002, "value": "China"},
+        {"id": 200003, "value": "USA"},
+        {"id": 200004, "value": "Canada"},
+        {"id": 200005, "value": "UK"},
+        {"id": 200006, "value": "Brazil"},
+        {"id": 200007, "value": "Italy"},
+        {"id": 200008, "value": "France"},
+        {"id": 200009, "value": "S.Korea"},
+        {"id": 200010, "value": "Japan"},
+        {"id": 200011, "value": "Germany"},
+        {"id": 200012, "value": "Spain"},
+        {"id": 200013, "value": "India"},
+        {"id": 200014, "value": "portugal"},
+        {"id": 200015, "value": "Turkey"},
+        {"id": 200016, "value": "Egypt"},
+        {"id": 200017, "value": "UAE"},
+        {"id": 200018, "value": "Ukraine"},
+        {"id": 200019, "value": "Finland"},
+        {"id": 200020, "value": "Greece"},
+        {"id": 200021, "value": "Netherlands"},
+        {"id": 200022, "value": "Iran"},
+        {"id": 200023, "value": "Japan"},
+        {"id": 200024, "value": "Israel"},
+        {"id": 200025, "value": "Argentina"},
+        {"id": 200026, "value": "Germany"}
+      ]
+    },
+    {
+      "id": 100002,
+      "name": "iconic landmarks",
+      "isSelected": false,
+      "words": [
+        {"id": 200027, "value": "Eiffel Tower"},
+        {"id": 200028, "value": "Statue of Liberty"},
+        {"id": 200029, "value": "Taj Mahal"},
+        {"id": 200030, "value": "Great Wall of China"},
+        {"id": 200031, "value": "Sydney Opera House"},
+        {"id": 200032, "value": "Colosseum"},
+        {"id": 200033, "value": "Machu Picchu"},
+        {"id": 200034, "value": "Pyramids of Giza"},
+        {"id": 200035, "value": "Acropolis of Athens"},
+        {"id": 200036, "value": "Santorini"},
+        {"id": 200037, "value": "Serengeti National Park"},
+        {"id": 200038, "value": "Mount Everest"},
+        {"id": 200039, "value": "Grand Canyon"},
+        {"id": 200040, "value": "Niagara Falls"},
+        {"id": 200041, "value": "Buckingham Palace"},
+        {"id": 200042, "value": "Petra"},
+        {"id": 200043, "value": "Hollywood Walk of Fame"},
+        {"id": 200044, "value": "Angkor Wat"},
+        {"id": 200045, "value": "Yellowstone National Park"},
+        {"id": 200046, "value": "Neuschwanstein Castle"}
+      ]
+    },
+    {
+      "id": 100003,
+      "name": "Art and culture",
+      "isSelected": false,
+      "words": [
+        {"id": 200047, "value": "Cinema"},
+        {"id": 200048, "value": "Circus"},
+        {"id": 200049, "value": "Exbibition"},
+        {"id": 200050, "value": "Theater"},
+        {"id": 200051, "value": "Museum"}
+      ]
+    },
+    {
+      "id": 100004,
+      "name": "Sports",
+      "isSelected": false,
+      "words": [
+        {"id": 200052, "value": "Stadium"},
+        {"id": 200053, "value": "Swimming Pool"},
+        {"id": 200054, "value": "Tennis court"},
+        {"id": 200055, "value": "Gym"}
+      ]
+    },
+    {
+      "id": 100005,
+      "name": "General",
+      "isSelected": false,
+      "words": [
+        {"id": 200056, "value": "Airplane"},
+        {"id": 200057, "value": "Bank"},
+        {"id": 200058, "value": "Beach"},
+        {"id": 200059, "value": "Casino"},
+        {"id": 200060, "value": "Cathedral"},
+        {"id": 200061, "value": "Embassy"},
+        {"id": 200062, "value": "Hospital"},
+        {"id": 200063, "value": "Hotel"},
+        {"id": 200064, "value": "Militay base"},
+        {"id": 200065, "value": "Movie studio"},
+        {"id": 200066, "value": "Passenger train"},
+        {"id": 200067, "value": "Pirate ship"},
+        {"id": 200068, "value": "School"},
+        {"id": 200069, "value": "Restaurant"},
+        {"id": 200070, "value": "Service station"},
+        {"id": 200071, "value": "Space station"},
+        {"id": 200072, "value": "Submarine"},
+        {"id": 200073, "value": "Supermarket"},
+        {"id": 200074, "value": "University"}
+      ]
+    }
+  ]
+}
