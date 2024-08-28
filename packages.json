@@ -113,4 +113,18 @@
       {"id": 200074, "value": "University"}
     ]
   }
+
+  {
+  "id": 100006,
+  "name": "Wonders",
+  "isSelected": false,
+  "numberOfWords": 5,
+  "words": [
+    {"id": 200075, "value": "Bedroom"},
+    {"id": 200076, "value": "Ocean"},
+    {"id": 200077, "value": "Elevator"},
+    {"id": 200078, "value": "Moon planet"},
+    {"id": 200079, "value": "Prison"}
+  ]
+}
 ]
