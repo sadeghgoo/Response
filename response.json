@@ -1,6 +1,6 @@
 {
   "forceUpdates": {
-    "version" : ["1.1.0", "1.1.1"],
+    "version" : ["1.1.0""],
     "title": "Force update",
     "description" : "This version is no longer supported please update the app form App Store"
   },
