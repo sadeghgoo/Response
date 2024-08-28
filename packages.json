@@ -112,8 +112,7 @@
       {"id": 200073, "value": "Supermarket"},
       {"id": 200074, "value": "University"}
     ]
-  }
-
+  },
   {
   "id": 100006,
   "name": "Wonders",
@@ -126,5 +125,5 @@
     {"id": 200078, "value": "Moon planet"},
     {"id": 200079, "value": "Prison"}
   ]
-}
+  }
 ]
